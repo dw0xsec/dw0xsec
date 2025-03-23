@@ -20,7 +20,8 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dw0xsec&theme=algolia&title=00ff00&text=00ff00&bg_color=000000)
 
 
-![snake gif](https://github.com/dw0xsec/dw0xsec/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/dw0xsec/dw0xsec/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **dw0xsec/dw0xsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
