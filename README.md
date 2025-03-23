@@ -11,7 +11,9 @@
 
 ## 🔍 Find me around the net
 - 💼 https://www.linkedin.com/in/daniel-walker-ba9a00187/
+## 📊 GitHub Stats
 
+![dw0xsec's GitHub stats](https://github-readme-stats.vercel.app/api?username=dw0xsec&show_icons=true&theme=tokyonight)
 <!--
 **dw0xsec/dw0xsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
